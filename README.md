@@ -27,4 +27,4 @@ To use locally:
 
 * Activate the environment: ```conda activate fintech-lab36```
 
-* Finally, run the notebook: ```jupyter notebook```
+* Run the notebook: ```jupyter notebook```
