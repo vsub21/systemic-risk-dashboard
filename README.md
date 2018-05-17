@@ -17,7 +17,7 @@ The resulting data set is accessible to contemporary data science techniques lik
  
 ---
 
-This dashboard serves as a front-end for the ![Open Source Risk Engine](http://www.opensourcerisk.org/) as a joint venture between the ![Columbia Fintech Laboratory](http://fintech.datascience.columbia.edu/) and ![Quaternion Risk Management](https://www.quaternion.com/) and was created by ![Vivek Subramaniam](https://github.com/vsub21) with mentorship from ![Nikolai Nowaczyk](https://github.com/niknow). This dashboard depicts the effects of varying collateralization configurations (IM, VM, and IM/VM) on the trade relations and risk associated with counterparties within financial systems.
+This dashboard serves as a front-end for the ![Open Source Risk Engine](http://www.opensourcerisk.org/) as a joint venture between the ![Columbia Fintech Laboratory](http://fintech.datascience.columbia.edu/) and ![Quaternion Risk Management](https://www.quaternion.com/). This was created by ![Vivek Subramaniam](https://github.com/vsub21) with mentorship from ![Nikolai Nowaczyk](https://github.com/niknow). This dashboard depicts the effects of varying collateralization configurations (IM, VM, and IM/VM) on the trade relations and risk associated with counterparties within financial systems.
 
 An interactive example can be launched via the Binder badge above, and the notebook can be downloaded for personal use and modification as well. 
 
