@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/vsub21/systemic-risk-dashboard/master?filepath=systemic-risk-dashboard.ipynb)
 
-Implementation of dashboard used in "A Data Science Approach to Predict the Impact of Collateralization on Systemic Risk" published in ![*From Security to Community Detection in Social Networking Platforms*](https://www.springer.com/gp/book/9783030112851). Link to chapter found ![here](http://www.bookmetrix.com/detail/chapter/6b880ca4-a6e4-467e-a3f4-6aec662b7513).
+Implementation of dashboard used in "A Data Science Approach to Predict the Impact of Collateralization on Systemic Risk" published in [*From Security to Community Detection in Social Networking Platforms*](https://www.springer.com/gp/book/9783030112851). Link to chapter found [here](http://www.bookmetrix.com/detail/chapter/6b880ca4-a6e4-467e-a3f4-6aec662b7513).
 
 ![](https://i.imgur.com/Z1JUT5q.gif)
 
@@ -17,7 +17,7 @@ The resulting data set is accessible to contemporary data science techniques lik
  
 ---
 
-This dashboard serves as a front-end for the ![Open Source Risk Engine](http://www.opensourcerisk.org/) as a joint venture between the ![Columbia Fintech Laboratory](http://fintech.datascience.columbia.edu/) and ![Quaternion Risk Management](https://www.quaternion.com/). This was created by ![Vivek Subramaniam](https://github.com/vsub21) with mentorship from ![Nikolai Nowaczyk](https://github.com/niknow). This dashboard depicts the effects of varying collateralization configurations (IM, VM, and IM/VM) on the trade relations and risk associated with counterparties within financial systems.
+This dashboard serves as a front-end for the [Open Source Risk Engine](http://www.opensourcerisk.org/) as a joint venture between the [Columbia Fintech Laboratory](http://fintech.datascience.columbia.edu/) and [Quaternion Risk Management](https://www.quaternion.com/). This was created by [Vivek Subramaniam](https://github.com/vsub21) with mentorship from [Nikolai Nowaczyk](https://github.com/niknow). This dashboard depicts the effects of varying collateralization configurations (IM, VM, and IM/VM) on the trade relations and risk associated with counterparties within financial systems.
 
 An interactive example can be launched via the Binder badge above, and the notebook can be downloaded for personal use and modification as well. 
 
