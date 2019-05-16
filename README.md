@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/vsub21/systemic-risk-dashboard/master?filepath=systemic-risk-dashboard.ipynb)
 
-From "A Data Science Approach to Predict the Impact of Collateralization on Systemic Risk" (insert link here)
+Implementation of dashboard used in "A Data Science Approach to Predict the Impact of Collateralization on Systemic Risk" published in (*From Security to Community Detection in Social Networking Platforms*)[https://www.springer.com/gp/book/9783030112851]. Link to chapter found (here)[http://www.bookmetrix.com/detail/chapter/6b880ca4-a6e4-467e-a3f4-6aec662b7513].
 
 ![](https://i.imgur.com/Z1JUT5q.gif)
 
